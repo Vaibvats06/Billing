@@ -1,6 +1,8 @@
 {
   "name": "zuber_website",
   "private": true,
+  "homepage": "https://vaibvats06.github.io/Billing/",
+
   "version": "0.0.0",
   "type": "module",
   "scripts": {
