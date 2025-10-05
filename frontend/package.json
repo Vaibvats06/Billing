@@ -1,8 +1,6 @@
 {
   "name": "zuber_website",
   "private": true,
-  "homepage": "https://Vaibvats06.github.io/zuber-website",
-
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -11,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+"deploy": "gh-pages -d dist"
 
   },
   "dependencies": {
